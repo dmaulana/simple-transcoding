@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "ffmpeg-static": "^4.0.1",
     "fp-ts": "^2.5.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "shaka-packager": "^2.4.1",
     "shell-escape": "^0.2.0",
     "typescript": "^3.8.3"
